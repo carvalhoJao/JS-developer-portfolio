@@ -1,0 +1,91 @@
+{
+  "name": "João Pedro Carvalho",
+  "photo": "https://avatars.githubusercontent.com/u/91091050?v=4",
+  "job": "Product Support at SAP",
+  "location": "Novo Hamburgo - RS",
+  "phone": "(14) 99828-3408",
+  "email": "pedrocarvalho2021@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "./data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "./data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "./data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "./data/imgs/react.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "./data/imgs/mysql-logo.png"
+      },
+      {
+        "name": "Python",
+        "logo": "./data/imgs/python.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "./data/imgs/typescript.svg"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Facilidade com novos conhecimentos",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Fluente)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokedex-Project (JS)",
+      "url": "https://github.com/carvalhoJao/Pokedex-Project",
+      "github": true
+    },
+    {
+      "name": "Piano online (JS)",
+      "url": "https://github.com/carvalhoJao/JS-Projeto-Piano",
+      "github": true
+    },
+    {
+      "name": "Exercicios Faculdade (Python)",
+      "url": "https://github.com/carvalhoJao/Projetos-Python",
+      "github": true
+    },
+    {
+      "name": "Veggood - Página do ifood para comidas veganas (HTML/CSS)",
+      "url": "https://github.com/carvalhoJao/Projeto-veggood",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Product Support Intern/ SAP",
+      "period": "Jul/2022 - até o momento",
+      "description": "Análise de incidentes através de teste e repetição, Troubleshooting com Debug em linguagem ABAP, Criação de Artigos de Conhecimento Básico, Responsável por monitoramento da fila de incidentes"
+    },
+    {
+      "name": "IT Intern / Soluções Esales",
+      "period": "Jan/2022 - Jul/2022",
+      "description": "Projeto Cultivar: Desenvolvimento em Java, Time focado em metodologias ágeis (Scrum,Kanban), Desenvolvimento Front-End(HTML/CSS &JavaScript)"
+    },
+    {
+      "name": "Assistente Administrativo / Grupo GPS",
+      "period": "2020 - 2021",
+      "description": "Faturamento de notas, Serviço ao consumidor, Documentação trabalhista"
+    }
+  ]
+}
